@@ -135,13 +135,13 @@
 // arr[2]="Copy";
 // console.log(arr);
 
-// let arr = ["Bag", "Pencil", "Copy"];
-// console.log(arr);
-// arr[2] = "Pen";
-// console.log(arr[2]);
-// console.log(arr.length)
-// arr.push("Burger, Pizza", "Sandwich");
-// console.log(arr);
+let arr = ["Bag", "Pencil", "Copy"];
+console.log(arr);
+arr[2] = "Pen";
+console.log(arr[2]);
+console.log(arr.length)
+arr.push("Burger, Pizza", "Sandwich");
+console.log(arr);
 
 // for(let i = 0; i<5; i++){
 //     for(let j = 0; j<3; j++){
