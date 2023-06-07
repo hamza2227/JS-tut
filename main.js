@@ -124,10 +124,10 @@
 //     console.log(num+ " is a Prime Number")
 // }
 
-// let food = ["Pizza", "Burger", "Sandwich"];
-// console.log(food);
-// console.log(food[1]); //Burger
-// console.log(food[4]); //undefined
+let food = ["Pizza", "Burger", "Sandwich"];
+console.log(food);
+console.log(food[1]); //Burger
+console.log(food[4]); //undefined
 
 // let arr = [];
 // arr[0]="Bag";
