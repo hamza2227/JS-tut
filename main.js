@@ -124,10 +124,10 @@
 //     console.log(num+ " is a Prime Number")
 // }
 
-let food = ["Pizza", "Burger", "Sandwich"];
-console.log(food);
-console.log(food[1]); //Burger
-console.log(food[4]); //undefined
+// let food = ["Pizza", "Burger", "Sandwich"];
+// console.log(food);
+// console.log(food[1]); //Burger
+// console.log(food[4]); //undefined
 
 // let arr = [];
 // arr[0]="Bag";
@@ -135,13 +135,13 @@ console.log(food[4]); //undefined
 // arr[2]="Copy";
 // console.log(arr);
 
-let arr = ["Bag", "Pencil", "Copy"];
-console.log(arr);
-arr[2] = "Pen";
-console.log(arr[2]);
-console.log(arr.length)
-arr.push("Burger, Pizza", "Sandwich");
-console.log(arr);
+// let arr = ["Bag", "Pencil", "Copy"];
+// console.log(arr);
+// arr[2] = "Pen";
+// console.log(arr[2]);
+// console.log(arr.length)
+// arr.push("Burger, Pizza", "Sandwich");
+// console.log(arr);
 
 // for(let i = 0; i<5; i++){
 //     for(let j = 0; j<3; j++){
@@ -149,8 +149,28 @@ console.log(arr);
 //     }
 // }
 
-for (let i = 0; i < 3; i++) {
-    for (let j = 0; j < 3; j++) {
-        console.log("I "+i+" , J "+j);
-    }
-}
+// for (let i = 0; i < 3; i++) {
+//     for (let j = 0; j < 3; j++) {
+//         console.log("I "+i+" , J "+j);
+//     }
+// }
+
+// let arr = [];
+// arr.push("Candy"); 
+// arr.push("Cake"); 
+// arr.push("Chocolate");
+// console.log(arr); 
+// arr.pop(); //Stack Function (LIFO)
+// console.log(arr); 
+// arr.shift(); // Qeue Function (FIFO)
+// console.log(arr);
+// arr.push("Toffee");
+// console.log(arr);
+// arr.unshift("Sandwich");
+// console.log(arr);
+
+// let arr = ['Chocolate', 'Cake', 'Candy', 'Tofee', 'Sandwich'];
+// for (let i = 0; i < arr.length; i++) {
+//     alert(arr[i]);
+// }
+
