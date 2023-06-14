@@ -174,3 +174,23 @@
 //     alert(arr[i]);
 // }
 
+// let arr = [];
+// for (let i = 0; i <= 5; i++) {
+//     arr[i] = i * 2;
+//     console.log(arr[i]);
+// }
+
+let arr = ['11', '22', '33', '44', '55', '66', '77', '88', '99'];
+let input = prompt("Enter a Number");
+console.log('User Enter '+input);
+let found = false;
+for (i = 0; i < arr.length; i++) {
+    if (arr[i] === input) {
+        console.log(input + " Found at the index of " + i);
+        found = true;
+        break;
+    }
+}
+if (!found) {
+    console.log('Not Found!');
+}
