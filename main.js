@@ -180,17 +180,47 @@
 //     console.log(arr[i]);
 // }
 
-let arr = ['11', '22', '33', '44', '55', '66', '77', '88', '99'];
-let input = prompt("Enter a Number");
-console.log('User Enter '+input);
-let found = false;
-for (i = 0; i < arr.length; i++) {
-    if (arr[i] === input) {
-        console.log(input + " Found at the index of " + i);
-        found = true;
-        break;
-    }
-}
-if (!found) {
-    console.log('Not Found!');
-}
+// let arr = ['11', '22', '33', '44', '55', '66', '77', '88', '99'];
+// let find = prompt("Enter a Number: ");
+// let found = false;
+// console.log("You Enter "+find)
+// for(let i = 0; i<arr.length; i++){
+//     if(arr[i] === find){
+//         console.log(find+" is Found at index "+i);
+//         found = true;
+//     }
+// }
+// if(!found){
+//     console.log("Not Found!");
+// }
+
+// let food = ['Pizza', 'Burger', 'Nugets', "Fries"];
+// console.log(food);
+// var arr = food.splice(1,2,'Sandwich');
+// console.log(food);
+// console.log(arr);
+
+// let food = ['Pizza', 'Burger', 'Nugets', "Fries"];
+// console.log(food);
+// let reversArr = food.reverse();
+// console.log(reversArr);
+
+// let arr = food.slice(1,3);
+// console.log(arr);
+
+
+// // *****************************************
+// // Assignment
+
+// // Declare and Initialize an array and store available education
+// // qualifications in Pakistan (e.g. SSC, HSC, BCS, BS, BCOM, MS, M.
+// // Phil., PhD). Show the listed qualifications in your browser like:
+
+// let educationQualification = ['SSC', 'HSC', 'BSC', 'BS', 'BCOM', 'MS', 'M.Phil', 'PhD'];
+// console.log("Education Qualifications in Pakistan: ")
+// for (let i = 0; i < educationQualification.length; i++) {
+//     console.log(i+1 + ") " + educationQualification[i]);
+// }
+
+// // ------------------------
+
