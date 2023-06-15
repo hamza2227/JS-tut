@@ -224,3 +224,19 @@
 
 // // ------------------------
 
+
+// // Write a program to store 3 student names in an array.Take another
+// // array to store score of these three students. Assume that total marks
+// // are 500 for each student, display the scores & percentages of
+// // students like:
+
+// let studentsName = ['Michael', 'Jhon', 'Tony', 'Luke'];
+// let studentsScore = [320, 230, 480, 221];
+// let totalScore = 500;
+// for (let i = 0; i<studentsName.length; i++){
+//     let totalPerc = ((studentsScore[i]/totalScore) * 100);
+//     console.log(studentsName[i]+" has scored "+studentsScore[i]+" with percentage of "+totalPerc+"%");
+// }
+
+// // ...............................
+
