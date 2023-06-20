@@ -240,3 +240,12 @@
 
 // // ...............................
 
+// // Escape Characters
+// var a = "Hello\" World";
+// alert(a);
+// var b = "Hello\' World";
+// alert(b);
+// var c = "Hello\n World";
+// alert(c);
+// var d = "Hello\t World";
+// alert(d);
