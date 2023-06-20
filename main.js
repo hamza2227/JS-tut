@@ -249,3 +249,31 @@
 // alert(c);
 // var d = "Hello\t World";
 // alert(d);
+
+// var food = "SANDWAICH";
+// var updateFood = food.toLowerCase();
+// alert(updateFood);
+// var updateFood = food.toUpperCase();
+// alert(updateFood); 
+
+// let string = "Hello World";
+// var updateString = string.slice(1,3);
+// console.log(updateString);
+// var updateString = string.slice(6,9);
+// console.log(updateString);
+
+// var a = "To be or not to be";
+// var b = a.lastIndexOf("be");
+// console.log(b);
+
+// var a = "To be or not to be";
+// var b = a.charAt(7);
+// console.log(b); 
+// var c = a.replace(/be/g, "Hello");
+// console.log(c);
+
+// let num = Math.random();
+// console.log(num);
+// let num2 = num*10;
+// let result = Math.round(num2);
+// console.log(result);
