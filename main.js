@@ -277,3 +277,24 @@
 // let num2 = num*10;
 // let result = Math.round(num2);
 // console.log(result);
+
+// let a = 120;
+// let b = 33;
+// let c = a/b;
+// let arg = c.toFixed(3);
+// console.log(arg);
+
+// let date = new Date("2023 6 22");
+// console.log(date);
+
+// // Calculate Time Difference
+// let d1 = new Date("June 22 2023 12:44:25");
+// let d2 = new Date("June 29 2023 12:00:00");
+// let timeDiff = d2.getTime() - d1.getTime();
+// let timeInDay = 1000 * 60 * 60 * 24;
+// console.log(timeInDay);
+// let days = Math.round(timeDiff / timeInDay);
+// console.log(days);
+
+
+
