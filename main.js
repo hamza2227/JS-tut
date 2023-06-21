@@ -296,5 +296,47 @@
 // let days = Math.round(timeDiff / timeInDay);
 // console.log(days);
 
+// function sum(a, b) {
+//     console.log(a + b);
+// }
+// sum(4, 6);
 
+// function multiply(num1, num2){
+//     var result = num1 * num2;
+//     console.log(result);
+// }
+// multiply(2, 6);
+// multiply(13, 3);
 
+// function multiply(num1, num2) {
+//     return num1 * num2;
+// }
+// var result = multiply(9, 2);
+// console.log(result);
+
+// function multiply(num1, num2){
+//     return num2;    //This function will stop execution at this line becuase of this return keyword.
+//     return num1*num2;
+// }
+// var result = multiply(9, 2);
+// console.log(result);
+
+// let stdScore = prompt("Enter Your Score: ");
+// function findGrade(score){
+//     if(score>80 && score<=100){
+//         console.log("A Grade");
+//     }
+//     else if(score>70 && score<=80){
+//         console.log("B Grade");
+//     }
+//     else if(score>60 && score<=70){
+//         console.log("C Grade");
+//     }
+//     else if(score>50 && score<=60){
+//         console.log("D Grade");
+//     }
+//     else{
+//         console.log("F Grade");
+//     }
+// }
+// findGrade(stdScore);
