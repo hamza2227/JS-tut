@@ -368,3 +368,19 @@
 //     return num*num;
 // };
 // console.log(square(4));
+
+// var num = 5;
+// function changeValue(a){
+//     a = 7;
+// }
+
+// console.log(changeValue(num));
+// console.log(num); //5 ; change will not be affected in Argument passed by value.
+
+// var arr = [44, 7, 76, 9];
+// function updateArray(val){
+//     val[1] = 57;
+// }
+// console.log(arr[1]); //7 
+// updateArray(arr);
+// console.log(arr[1]); //57 ; Value will be updated in Argumnet passed by reference.
