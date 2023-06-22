@@ -340,3 +340,26 @@
 //     }
 // }
 // findGrade(stdScore);
+
+// function multiply(num1, num2) {
+//     return num1 * num2;
+// }
+// console.log(multiply(4, 3) + 5);
+
+// function multiply(num1, num2) {
+//     return num1 * num2;
+// }
+// function sum(a, b) {
+//     return multiply(a, b) + b;
+// }
+// var total = sum(3, 4) + 6;
+// console.log(total);
+
+// function multiply(num1, num2) {
+//     return num1 * num2
+// }
+// function sum(a, b) {
+//     return a + b;
+// }
+// var total = sum(multiply(4, 3), 2 + 8);
+// console.log(total);
