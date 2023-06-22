@@ -384,3 +384,40 @@
 // console.log(arr[1]); //7 
 // updateArray(arr);
 // console.log(arr[1]); //57 ; Value will be updated in Argumnet passed by reference.
+
+// let checkVowel = prompt("Enter a character: ");
+// switch (checkVowel) {
+//     case "A":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "a":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "E":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "e":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "I":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "i":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "O":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "o":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "U":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     case "u":
+//         console.log(checkVowel+" is vowel")
+//         break;
+//     default:
+//         console.log(checkVowel+" is Not s vowel!")
+//         break;
+// }
