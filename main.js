@@ -363,3 +363,8 @@
 // }
 // var total = sum(multiply(4, 3), 2 + 8);
 // console.log(total);
+
+// let square = function(num){
+//     return num*num;
+// };
+// console.log(square(4));
